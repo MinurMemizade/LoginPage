@@ -1,0 +1,42 @@
+div{
+    width: 25%;
+    display: grid;
+    grid-template-columns: auto;
+    margin: 200px;   
+    padding: 0;
+    background-color: white;
+    border-radius: 10px;
+    height: 50%;
+    margin-left: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    
+}
+body
+{
+    background: linear-gradient(blue,purple);
+    align-items: center;
+}
+
+input{
+    margin:10px ;
+    height: 30px;
+}
+a{
+    margin:10px ;
+    height: 30px;
+}
+button{
+    margin:10px ;
+    height: 30px;
+    border-radius: 20px;
+}
+p{
+    margin:10px ;
+    height: 30px;
+}
+h1{
+    text-align: center;
+}
+
